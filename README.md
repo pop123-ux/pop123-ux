@@ -13,7 +13,7 @@ Languages: Romanian, English
 ## 🧠 About Me
 
 - 🏆 **AI Olympiad competitor** — active on [ONIA](https://platform.olimpiada-ai.ro/ro/profile/pop)
-- 🔐 **Security enthusiast** — practicing on [TryHackMe](https://tryhackme.com/p/pop12345)
+- 🔐 **Security enthusiast** — practicing on [TryHackMe](https://tryhackme.com/p/pop12345) & [CyLab Security Academy](https://learn.cylabacademy.org/users/pop6767)
 - 🛠️ **Builder** — I ship practical tools: MCP servers, AI-powered apps, SEO automation
 - 📍 Cluj-Napoca, Romania
 
