@@ -4,6 +4,10 @@
 
 Based in Cluj-Napoca 🇷🇴 — building at the intersection of AI, cybersecurity, and developer tooling.
 
+Age: 17
+
+Languages: Romanian, English
+
 ---
 
 ## 🧠 About Me
