@@ -12,9 +12,10 @@ Languages: Romanian, English
 
 ## 🧠 About Me
 
+- 🥇 **ICYS 2026 GOLD MEDALIST** - won the gold medal in the Life Sciences category with a web application that integrated a Machine Learning Regression Model that predicts l-cysteine concentration in a colloidal solution
 - 🏆 **AI Olympiad competitor** — active on [ONIA](https://platform.olimpiada-ai.ro/ro/profile/pop)
 - 🔐 **Security enthusiast** — practicing on [TryHackMe](https://tryhackme.com/p/pop12345) & [CyLab Security Academy](https://learn.cylabacademy.org/users/pop6767)
-- 🛠️ **Builder** — I ship practical tools: MCP servers, AI-powered apps, SEO automation
+- 🛠️ **Builder** — I ship practical tools: AI-powered apps, AI automation, AI tools, Inovative projects
 - 📍 Cluj-Napoca, Romania
 
 ---
