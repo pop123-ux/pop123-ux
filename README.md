@@ -67,6 +67,7 @@ Languages: Romanian, English
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/pop12345)
 [![ONIA](https://img.shields.io/badge/ONIA-Olimpiada%20AI-blue?style=flat)](https://platform.olimpiada-ai.ro/ro/profile/pop)
 [![GitHub](https://img.shields.io/badge/GitHub-pop123--ux-181717?style=flat&logo=github&logoColor=white)](https://github.com/pop123-ux)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@Pop123)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/14ikaBuEFV8/?mibextid=wwXIfr)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
 
