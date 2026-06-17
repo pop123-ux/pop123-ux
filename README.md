@@ -46,6 +46,7 @@ Languages: Romanian, English
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat&logo=pypi&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
@@ -66,6 +67,8 @@ Languages: Romanian, English
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/pop12345)
 [![ONIA](https://img.shields.io/badge/ONIA-Olimpiada%20AI-blue?style=flat)](https://platform.olimpiada-ai.ro/ro/profile/pop)
 [![GitHub](https://img.shields.io/badge/GitHub-pop123--ux-181717?style=flat&logo=github&logoColor=white)](https://github.com/pop123-ux)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/14ikaBuEFV8/?mibextid=wwXIfr)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
 
 ---
 
