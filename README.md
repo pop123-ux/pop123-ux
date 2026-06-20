@@ -51,6 +51,12 @@ Languages: Romanian, English
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
+### 📜 Certifications & Achievements
+* **freeCodeCamp Python** — [freeCodeCamp]<img width="806" height="744" alt="Freecodecamp Python" src="https://github.com/user-attachments/assets/ac18002e-b633-4c90-84d7-d810c0370bb1" />
+* **Try Hack Me Cyber Security 101** — [Try Hack Me][THM-RFTPANWPX1.pdf](https://github.com/user-attachments/files/29165058/THM-RFTPANWPX1.pdf)
+* **Try Hack Me AI Security** — [Try Hack Me]<img width="1122" height="794" alt="THM-QU0ZNWNSWT" src="https://github.com/user-attachments/assets/603814c6-15ac-4009-a190-4e9f6e0acdb0" />
+* **Hugging Face "The LLM Course" ** — [Hugging Face]<img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/5000a1ee-2022-4aca-b7bc-93b29f89b14d" />
+
 
 ---
 
