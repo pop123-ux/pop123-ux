@@ -14,7 +14,6 @@ Languages: Romanian (mother tongue), English (bilingual/completely fluent), Germ
 - 🏆 **AI Olympiad competitor** — active on [ONIA](https://platform.olimpiada-ai.ro/ro/profile/pop)
 - 🔐 **Security enthusiast** — practicing on [TryHackMe](https://tryhackme.com/p/pop12345) & [CyLab Security Academy](https://learn.cylabacademy.org/users/pop6767)
 - 🛠️ **Builder** — I ship practical tools: AI-powered apps, AI automation, AI tools, Inovative projects
-- 📍 Cluj-Napoca, Romania
 
 ---
 
