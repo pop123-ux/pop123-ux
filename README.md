@@ -4,8 +4,6 @@
 
 Building at the intersection of AI, cybersecurity, and developer tooling.
 
-Age: 17
-
 Languages: Romanian (mother tongue), English (bilingual/completely fluent), German (beginner)
 
 ---
