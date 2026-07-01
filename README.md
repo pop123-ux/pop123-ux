@@ -51,7 +51,9 @@ Languages: Romanian (mother tongue), English (bilingual/completely fluent), Germ
 * **freeCodeCamp Python** — [freeCodeCamp]<img width="806" height="744" alt="Freecodecamp Python" src="https://github.com/user-attachments/assets/ac18002e-b633-4c90-84d7-d810c0370bb1" />
 * **Try Hack Me Cyber Security 101** — [Try Hack Me]<img width="872" height="616" alt="image" src="https://github.com/user-attachments/assets/55041d20-3ef5-42fa-b8fe-ef613acc1fd1" />
 * **Try Hack Me AI Security** — [Try Hack Me]<img width="1122" height="794" alt="THM-QU0ZNWNSWT" src="https://github.com/user-attachments/assets/603814c6-15ac-4009-a190-4e9f6e0acdb0" />
-* **Hugging Face "The LLM Course"** — [Hugging Face]<img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/5000a1ee-2022-4aca-b7bc-93b29f89b14d" />
+* **Hugging Face "The LLM Course Unit 1"** — [Hugging Face]<img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/5000a1ee-2022-4aca-b7bc-93b29f89b14d" />
+* **Hugging Face "The LLM Course Unit 3"** — [Hugging Face]<img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/df9a55d8-ec3b-4b70-8c74-1d15ae4362a1" />
+
 
 
 ---
