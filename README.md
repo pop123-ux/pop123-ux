@@ -60,6 +60,7 @@ Languages: Romanian (mother tongue), English (bilingual/completely fluent), Germ
 * **Hugging Face "The LLM Course Unit 3"** — [Hugging Face]<img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/df9a55d8-ec3b-4b70-8c74-1d15ae4362a1" />
 * **Hugging Face "The Reasoning Course — 1. Fundamentals of GRPO"** — [Hugging Face] (2026-07-24)
 
+<img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/4328005b-8837-4975-92df-ad3726d6c4e3" />
 
 
 ---
