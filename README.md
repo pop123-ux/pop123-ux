@@ -58,6 +58,7 @@ Languages: Romanian (mother tongue), English (bilingual/completely fluent), Germ
 * **Try Hack Me AI Security** — [Try Hack Me]<img width="1122" height="794" alt="THM-QU0ZNWNSWT" src="https://github.com/user-attachments/assets/603814c6-15ac-4009-a190-4e9f6e0acdb0" />
 * **Hugging Face "The LLM Course Unit 1"** — [Hugging Face]<img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/5000a1ee-2022-4aca-b7bc-93b29f89b14d" />
 * **Hugging Face "The LLM Course Unit 3"** — [Hugging Face]<img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/df9a55d8-ec3b-4b70-8c74-1d15ae4362a1" />
+* **Hugging Face "The Reasoning Course — 1. Fundamentals of GRPO"** — [Hugging Face] (2026-07-24)
 
 
 
