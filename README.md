@@ -12,7 +12,7 @@ Languages: Romanian (mother tongue), English (bilingual/completely fluent), Germ
 
 - 🥇 **ICYS 2026 GOLD MEDALIST** - won the gold medal in the Life Sciences category with A Bio-Responsive Gold Nanoparticle Platform with Machine Learning Integration for Intelligent L-Cysteine Detection (a web application that integrated a Machine Learning Regression Model, predicting l-cysteine concentration, based on it's color change at different molar concentrations) -> https://icysindia.saintmarksschool.com/wp-content/uploads/2026/04/ICYS-2026-Oral-presentations-Results.pdf
 - 🔐 **Security enthusiast** — practicing on [TryHackMe](https://tryhackme.com/p/pop12345) & [CyLab Security Academy](https://learn.cylabacademy.org/users/pop6767)
-- 🛠️ **Builder** — I ship practical tools: AI-powered apps, AI automation, AI tools, Inovative projects
+- 🛠️ **Builder** — I ship practical tools: AI-powered apps, AI tools, Inovative projects
 
 ---
 
