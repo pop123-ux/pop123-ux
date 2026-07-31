@@ -1,6 +1,6 @@
 # Hi, I'm Alexandru 👋
 
-**Student. Competing in AI, shipping tools that matter.**
+**17 year old. Competing in AI, shipping tools that matter.**
 
 Building at the intersection of AI, cybersecurity, and developer tooling.
 
