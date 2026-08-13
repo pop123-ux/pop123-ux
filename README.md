@@ -37,10 +37,10 @@ A web application built around a machine-learning regression model that predicts
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| **[huggingface-project-learning](https://github.com/pop123-ux/huggingface-project-learning)** | Romanian extractive QA fine-tuned on XQuAD-ro, benchmarking monolingual against multilingual BERT — plus GRPO implemented three ways: from scratch in raw PyTorch, with TRL, and with Unsloth | Transformers · TRL · Unsloth · Datasets |
 | **[doc-assistant-hf](https://github.com/pop123-ux/doc-assistant-hf)** | Document assistant with three modes: a QLoRA fine-tuned summarizer, a TextRank extractive summarizer built from scratch, and extractive QA with custom span decoding | PyTorch · PEFT · Transformers · Gradio |
-| **[FruitDeepLearning-Classifier](https://github.com/pop123-ux/FruitDeepLearning-Classifier)** | Transfer-learning classifier telling healthy from rotten produce across 28 classes, comparing two backbones | PyTorch · EfficientNetV2 · MobileNetV2 |
-| **[DeepSeek Gradio Chat](https://github.com/pop123-ux/DeepSeek-v4-pro-Implementation-using-Gradio)** | Streaming chat interface over DeepSeek's OpenAI-compatible API, with runtime-tunable system prompt and sampling | Gradio · OpenAI SDK |
-| **[iris-classifier](https://github.com/pop123-ux/iris-classifier)** | Hand-written PyTorch training loop — 93.3% test accuracy, with a documented analysis of where it overfits | PyTorch · scikit-learn |
+| **[opencv-document-scanner](https://github.com/pop123-ux/opencv-document-scanner)** | Finds a document in a photo, corrects the perspective and exports a clean scan in B&W, grayscale or enhanced colour — shipped as an installable package with a CLI, tests and CI | OpenCV · NumPy · pytest |
+| **[captcha-solver-cnn](https://github.com/pop123-ux/captcha-solver-cnn)** | Splits 4-character CAPTCHAs into single glyphs with OpenCV contour detection, then classifies each with a CNN — ~99.5% validation accuracy | PyTorch · OpenCV |
 
 ---
 
