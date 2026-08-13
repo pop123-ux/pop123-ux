@@ -1,18 +1,46 @@
-# Hi, I'm Alexandru 👋
+<h1 align="center">Hi, I'm Alexandru 👋</h1>
 
-**17 year old. Competing in AI, shipping tools that matter.**
+<p align="center">
+  <b>17-year-old ICYS gold medalist. Competing in AI, shipping tools that matter.</b><br>
+  Building at the intersection of <b>AI</b>, <b>cybersecurity</b> and <b>developer tooling</b>.
+</p>
 
-Building at the intersection of AI, cybersecurity, and developer tooling.
+<p align="center">
+  <a href="https://github.com/pop123-ux"><img src="https://img.shields.io/badge/GitHub-pop123--ux-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://medium.com/@Pop123"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://profile.hackthebox.com/profile/019f3cd8-6dda-7323-a174-6b280926868c"><img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box"></a>
+  <a href="https://tryhackme.com/p/pop12345"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
+</p>
 
-Languages: Romanian (mother tongue), English (bilingual/completely fluent), German (beginner)
+---
+
+## 🥇 ICYS 2026 — Gold Medal, Life Sciences
+
+**A Bio-Responsive Gold Nanoparticle Platform with Machine Learning Integration for Intelligent L-Cysteine Detection**
+
+A web application built around a machine-learning regression model that predicts L-cysteine concentration from the colour change of gold nanoparticles at different molar concentrations.
+
+📄 [Official results — ICYS 2026 (International Conference of Young Scientists)](https://icysindia.saintmarksschool.com/wp-content/uploads/2026/04/ICYS-2026-Oral-presentations-Results.pdf)
 
 ---
 
 ## 🧠 About Me
 
-- 🥇 **ICYS 2026 GOLD MEDALIST** - won the gold medal in the Life Sciences category with A Bio-Responsive Gold Nanoparticle Platform with Machine Learning Integration for Intelligent L-Cysteine Detection (a web application that integrated a Machine Learning Regression Model, predicting l-cysteine concentration, based on it's color change at different molar concentrations) -> https://icysindia.saintmarksschool.com/wp-content/uploads/2026/04/ICYS-2026-Oral-presentations-Results.pdf
-- 🔐 **Security enthusiast** — practicing on [TryHackMe](https://tryhackme.com/p/pop12345) & [CyLab Security Academy](https://learn.cylabacademy.org/users/pop6767)
-- 🛠️ **Builder** — I ship practical tools: AI-powered apps, AI tools, Inovative projects
+- 🥇 **ICYS 2026 Gold Medalist** — Life Sciences category (see above)
+- 🔐 **Security enthusiast** — practicing on [Hack The Box](https://profile.hackthebox.com/profile/019f3cd8-6dda-7323-a174-6b280926868c), [TryHackMe](https://tryhackme.com/p/pop12345) & [CyLab Security Academy](https://learn.cylabacademy.org/users/pop6767)
+- 🛠️ **Builder** — I ship practical tools: AI-powered apps, ML pipelines and innovative projects
+- 🗣️ **Languages** — Romanian (native), English (fluent), German (beginner)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[doc-assistant-hf](https://github.com/pop123-ux/doc-assistant-hf)** | Document assistant with three modes: a QLoRA fine-tuned summarizer, a TextRank extractive summarizer built from scratch, and extractive QA with custom span decoding | PyTorch · PEFT · Transformers · Gradio |
+| **[FruitDeepLearning-Classifier](https://github.com/pop123-ux/FruitDeepLearning-Classifier)** | Transfer-learning classifier telling healthy from rotten produce across 28 classes, comparing two backbones | PyTorch · EfficientNetV2 · MobileNetV2 |
+| **[DeepSeek Gradio Chat](https://github.com/pop123-ux/DeepSeek-v4-pro-Implementation-using-Gradio)** | Streaming chat interface over DeepSeek's OpenAI-compatible API, with runtime-tunable system prompt and sampling | Gradio · OpenAI SDK |
+| **[iris-classifier](https://github.com/pop123-ux/iris-classifier)** | Hand-written PyTorch training loop — 93.3% test accuracy, with a documented analysis of where it overfits | PyTorch · scikit-learn |
 
 ---
 
@@ -24,9 +52,9 @@ Languages: Romanian (mother tongue), English (bilingual/completely fluent), Germ
 
 **AI & Core ML**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat&logo=lightgbm&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat&logo=catboost&logoColor=black)
@@ -52,34 +80,64 @@ Languages: Romanian (mother tongue), English (bilingual/completely fluent), Germ
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-### 📜 Certifications & Achievements
-* **freeCodeCamp Python** — [freeCodeCamp]<img width="806" height="744" alt="Freecodecamp Python" src="https://github.com/user-attachments/assets/ac18002e-b633-4c90-84d7-d810c0370bb1" />
-* **Try Hack Me Cyber Security 101** — [Try Hack Me]<img width="872" height="616" alt="image" src="https://github.com/user-attachments/assets/55041d20-3ef5-42fa-b8fe-ef613acc1fd1" />
-* **Try Hack Me AI Security** — [Try Hack Me]<img width="1122" height="794" alt="THM-QU0ZNWNSWT" src="https://github.com/user-attachments/assets/603814c6-15ac-4009-a190-4e9f6e0acdb0" />
-* **Hugging Face "The LLM Course Unit 1"** — [Hugging Face]<img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/5000a1ee-2022-4aca-b7bc-93b29f89b14d" />
-* **Hugging Face "The LLM Course Unit 3"** — [Hugging Face]<img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/df9a55d8-ec3b-4b70-8c74-1d15ae4362a1" />
-* **Hugging Face "The Reasoning Course — 1. Fundamentals of GRPO"** — [Hugging Face]<img width="2000" height="1414" alt="The Reasoning Course - Fundamentals of GRPO" src="https://github.com/user-attachments/assets/4328005b-8837-4975-92df-ad3726d6c4e3" />
 
+## 📜 Certifications & Achievements
+
+| Certification | Issuer |
+| --- | --- |
+| 🥇 ICYS 2026 — Gold Medal, Life Sciences | ICYS |
+| Cyber Security 101 | TryHackMe |
+| AI Security | TryHackMe |
+| The LLM Course — Unit 1 | Hugging Face |
+| The LLM Course — Unit 3 | Hugging Face |
+| The Reasoning Course — Fundamentals of GRPO | Hugging Face |
+| Python | freeCodeCamp |
+
+<details>
+<summary>🖼️ <b>View certificates</b></summary>
+<br>
+
+**TryHackMe — Cyber Security 101**
+<img width="600" alt="TryHackMe Cyber Security 101" src="https://github.com/user-attachments/assets/55041d20-3ef5-42fa-b8fe-ef613acc1fd1" />
+
+**TryHackMe — AI Security**
+<img width="600" alt="TryHackMe AI Security" src="https://github.com/user-attachments/assets/603814c6-15ac-4009-a190-4e9f6e0acdb0" />
+
+**Hugging Face — The LLM Course, Unit 1**
+<img width="600" alt="Hugging Face LLM Course Unit 1" src="https://github.com/user-attachments/assets/5000a1ee-2022-4aca-b7bc-93b29f89b14d" />
+
+**Hugging Face — The LLM Course, Unit 3**
+<img width="600" alt="Hugging Face LLM Course Unit 3" src="https://github.com/user-attachments/assets/df9a55d8-ec3b-4b70-8c74-1d15ae4362a1" />
+
+**Hugging Face — The Reasoning Course, Fundamentals of GRPO**
+<img width="600" alt="Hugging Face Reasoning Course GRPO" src="https://github.com/user-attachments/assets/4328005b-8837-4975-92df-ad3726d6c4e3" />
+
+**freeCodeCamp — Python**
+<img width="600" alt="freeCodeCamp Python" src="https://github.com/user-attachments/assets/ac18002e-b633-4c90-84d7-d810c0370bb1" />
+
+</details>
 
 ---
 
 ## 📊 GitHub Stats
 
-![pop123-ux's GitHub stats](https://github-readme-stats.vercel.app/api?username=pop123-ux&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pop123-ux&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pop123-ux&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pop123-ux&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+</p>
 
 ---
 
 ## 🔗 Find Me
 
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019f3cd8-6dda-7323-a174-6b280926868c)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/pop12345)
+[![CyLab Security Academy](https://img.shields.io/badge/CyLab%20Security%20Academy-B00020?style=flat&logoColor=white)](https://learn.cylabacademy.org/users/pop6767)
 [![ONIA](https://img.shields.io/badge/ONIA-Olimpiada%20AI-blue?style=flat)](https://platform.olimpiada-ai.ro/ro/profile/pop)
 [![GitHub](https://img.shields.io/badge/GitHub-pop123--ux-181717?style=flat&logo=github&logoColor=white)](https://github.com/pop123-ux)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@Pop123)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/14ikaBuEFV8/?mibextid=wwXIfr)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
 
 ---
 
-*Always building. Always learning.*
+<p align="center"><i>Always building. Always learning.</i></p>
