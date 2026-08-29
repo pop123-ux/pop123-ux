@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>17-year-old ICYS gold medalist. Competing in AI, shipping tools that matter.</b><br>
-  Building at the intersection of <b>AI</b>, <b>cybersecurity</b> and <b>developer tooling</b>.
+  Building and learning at the intersection of <b>AI</b>, <b>cybersecurity</b> and <b>developer tooling</b>.
 </p>
 
 <p align="center">
@@ -24,11 +24,12 @@ A web application built around a machine-learning regression model that predicts
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - 🥇 **ICYS 2026 Gold Medalist** — Life Sciences category (see above)
 - 🔐 **Security enthusiast** — practicing on [Hack The Box](https://profile.hackthebox.com/profile/019f3cd8-6dda-7323-a174-6b280926868c), [TryHackMe](https://tryhackme.com/p/pop12345) & [CyLab Security Academy](https://learn.cylabacademy.org/users/pop6767)
 - 🛠️ **Builder** — I ship practical tools: AI-powered apps, ML pipelines and innovative projects
+- 📈 **Researcher** - I am constantly interested in learning the latest AI architectures and how they work under the hood, future projects may come!
 - 🗣️ **Languages** — Romanian (native), English (fluent), German (beginner)
 
 ---
@@ -37,10 +38,11 @@ A web application built around a machine-learning regression model that predicts
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[huggingface-project-learning](https://github.com/pop123-ux/huggingface-project-learning)** | Romanian extractive QA fine-tuned on XQuAD-ro, benchmarking monolingual against multilingual BERT — plus GRPO implemented three ways: from scratch in raw PyTorch, with TRL, and with Unsloth | Transformers · TRL · Unsloth · Datasets |
+| **[🤗 huggingface-project-learning](https://github.com/pop123-ux/huggingface-project-learning)** | Romanian extractive QA fine-tuned on XQuAD-ro, benchmarking monolingual against multilingual BERT — plus GRPO implemented three ways: from scratch in raw PyTorch, with TRL, and with Unsloth | Transformers · TRL · Unsloth · Datasets |
 | **[doc-assistant-hf](https://github.com/pop123-ux/doc-assistant-hf)** | Document assistant with three modes: a QLoRA fine-tuned summarizer, a TextRank extractive summarizer built from scratch, and extractive QA with custom span decoding | PyTorch · PEFT · Transformers · Gradio |
 | **[opencv-document-scanner](https://github.com/pop123-ux/opencv-document-scanner)** | Finds a document in a photo, corrects the perspective and exports a clean scan in B&W, grayscale or enhanced colour — shipped as an installable package with a CLI, tests and CI | OpenCV · NumPy · pytest |
-| **[captcha-solver-cnn](https://github.com/pop123-ux/captcha-solver-cnn)** | Splits 4-character CAPTCHAs into single glyphs with OpenCV contour detection, then classifies each with a CNN — ~99.5% validation accuracy | PyTorch · OpenCV |
+| **[lenet_5-from-scratch](https://github.com/pop123-ux/LeNet_5-from-scratch)** | The whole implementation of Yann LeCun's LeNet-5 CNN from scratch in modern PyTorch, received 98.58% test accuracy on the 10.000-image test set of MNIST, even having a notebook you can experiment with | PyTorch · Matplotlib |
+| **[alexnet-from-scratch](https://github.com/pop123-ux/AlexNet-from-scratch)** | In-depth implementation of former state-of-the-art CNN, which won the ImageNet Large scale Visual Recognition Challenge in 2012, properly trained on just 30 epochs of imagenette, received 83.26% validation accuracy over the full 3,925 images iteration | PyTorch · Matplotlib · NumPy |
 
 ---
 
@@ -64,6 +66,7 @@ A web application built around a machine-learning regression model that predicts
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40)
 
 **Computer Vision**
 
@@ -71,13 +74,15 @@ A web application built around a machine-learning regression model that predicts
 
 **Tools & Platforms**
 
+![🤗HuggingFace](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=)
 ![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
-![Scapy](https://img.shields.io/badge/Scapy-009688?style=flat&logo=wireshark&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat&logo=pypi&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=plastic&logo=google-colab&logoColor=white)
 
 ---
 
@@ -119,7 +124,7 @@ A web application built around a machine-learning regression model that predicts
 
 ---
 
-## 📊 GitHub Stats
+## 🌌 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pop123-ux&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
@@ -130,9 +135,9 @@ A web application built around a machine-learning regression model that predicts
 
 ## 🔗 Find Me
 
+[![Hugging Face](https://huggingface.co/pop123ux)]
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019f3cd8-6dda-7323-a174-6b280926868c)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/pop12345)
-[![CyLab Security Academy](https://img.shields.io/badge/CyLab%20Security%20Academy-B00020?style=flat&logoColor=white)](https://learn.cylabacademy.org/users/pop6767)
 [![ONIA](https://img.shields.io/badge/ONIA-Olimpiada%20AI-blue?style=flat)](https://platform.olimpiada-ai.ro/ro/profile/pop)
 [![GitHub](https://img.shields.io/badge/GitHub-pop123--ux-181717?style=flat&logo=github&logoColor=white)](https://github.com/pop123-ux)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@Pop123)
@@ -140,4 +145,4 @@ A web application built around a machine-learning regression model that predicts
 
 ---
 
-<p align="center"><i>Always building. Always learning.</i></p>
+<p align="center"><i>Always building. Always learning. Always improving.</i></p>
