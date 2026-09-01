@@ -42,7 +42,7 @@ A web application built around a machine-learning regression model that predicts
 | **[doc-assistant-hf](https://github.com/pop123-ux/doc-assistant-hf)** | Document assistant with three modes: a QLoRA fine-tuned summarizer, a TextRank extractive summarizer built from scratch, and extractive QA with custom span decoding | PyTorch · PEFT · Transformers · Gradio |
 | **[opencv-document-scanner](https://github.com/pop123-ux/opencv-document-scanner)** | Finds a document in a photo, corrects the perspective and exports a clean scan in B&W, grayscale or enhanced colour — shipped as an installable package with a CLI, tests and CI | OpenCV · NumPy · pytest |
 | **[lenet_5-from-scratch](https://github.com/pop123-ux/LeNet_5-from-scratch)** | The whole implementation of Yann LeCun's LeNet-5 CNN from scratch in modern PyTorch, received 98.58% test accuracy on the 10.000-image test set of MNIST, even having a notebook you can experiment with | PyTorch · Matplotlib |
-| **[alexnet-from-scratch](https://github.com/pop123-ux/AlexNet-from-scratch)** | In-depth implementation of former state-of-the-art CNN, which won the ImageNet Large scale Visual Recognition Challenge in 2012, properly trained on just 30 epochs of imagenette, received 83.26% validation accuracy over the full 3,925 images iteration | PyTorch · Matplotlib · NumPy |
+| **[alexnet-from-scratch](https://github.com/pop123-ux/AlexNet-from-scratch)** | In-depth implementation of former state-of-the-art CNN, which won the ImageNet Large scale Visual Recognition Challenge in 2012, properly trained on just 30 epochs of imagenette, received 82.88% validation accuracy over the full 3,925 images iteration | PyTorch · Matplotlib · NumPy |
 
 ---
 
