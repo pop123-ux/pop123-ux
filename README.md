@@ -30,7 +30,7 @@ A research project combining gold-nanoparticle colorimetry with a machine-learni
 - 🧠 **Aspiring AI researcher** — interested in model architecture, optimization, distillation, inference, and understanding systems from first principles
 - 🛠️ **Builder** — I turn concepts into working repositories, experiments, command-line tools, and reproducible research code
 - 🔐 **Security enthusiast** — practicing through [Hack The Box](https://profile.hackthebox.com/profile/019f3cd8-6dda-7323-a174-6b280926868c), [TryHackMe](https://tryhackme.com/p/pop12345), and [CyLab Security Academy](https://learn.cylabacademy.org/users/pop6767)
-- ✍️ **Technical writer** — publishing practical AI and systems articles on [Medium](https://medium.com/@Pop123)
+- ✍️ **Technical writer** — publishing practical AI & Cybersecurity-related articles on [Medium](https://medium.com/@Pop123)
 - 🗣️ **Languages** — Romanian (native), English (fluent), German (beginner)
 
 ---
