@@ -46,32 +46,16 @@ A research project combining gold-nanoparticle colorimetry with a machine-learni
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Technical Skills
 
-**Core**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-**ML & Data**
-
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat&logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-**Tools & Platforms**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
+- **Programming:** Python
+- **Deep Learning:** PyTorch, TensorFlow / Keras
+- **LLMs & NLP:** Hugging Face Transformers, Datasets, Tokenizers, PEFT, TRL, Accelerate, Hugging Face Hub
+- **Computer Vision:** OpenCV, TorchVision, Pillow; image preprocessing, augmentation, transfer learning, CNN training
+- **Classical ML & Data:** scikit-learn, NumPy, Pandas, XGBoost, LightGBM, CatBoost
+- **Visualization & Analysis:** Matplotlib, Seaborn
+- **Experimentation & Interfaces:** Jupyter / JupyterLab, Google Colab, Gradio, Weights & Biases
+- **Engineering & Quality:** Git, GitHub Actions, pytest, Ruff, uv
 
 ---
 
