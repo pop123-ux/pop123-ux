@@ -14,11 +14,11 @@
 
 ---
 
-## 🥇 ICYS 2026 — Gold Medal, Life Sciences
+## 🥇 ICYS 2026 — Gold Medal, Life Sciences, STEM Project
 
 **A Bio-Responsive Gold Nanoparticle Platform with Machine Learning Integration for Intelligent L-Cysteine Detection**
 
-A web application built around a machine-learning regression model that predicts L-cysteine concentration from the colour change of gold nanoparticles at different molar concentrations.
+A web application built around a machine-learning regression ensemble that predicts L-cysteine concentration from the colour change of gold nanoparticles at different molar concentrations.
 
 📄 [Official results — ICYS 2026 (International Conference of Young Scientists)](https://icysindia.saintmarksschool.com/wp-content/uploads/2026/04/ICYS-2026-Oral-presentations-Results.pdf)
 
