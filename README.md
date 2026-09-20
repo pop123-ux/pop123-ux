@@ -18,7 +18,7 @@
 
 **A Bio-Responsive Gold Nanoparticle Platform with Machine Learning Integration for Intelligent L-Cysteine Detection**
 
-A research project combining gold-nanoparticle colorimetry with a machine-learning regression ensemble to estimate L-cysteine concentration from measurable colour changes.
+A STEM research project combining gold-nanoparticle colorimetry with a machine-learning regression ensemble to estimate L-cysteine concentration from measurable colour changes.
 
 📄 [Official ICYS 2026 oral-presentation results](https://icysindia.saintmarksschool.com/wp-content/uploads/2026/04/ICYS-2026-Oral-presentations-Results.pdf)
 
@@ -54,7 +54,7 @@ A research project combining gold-nanoparticle colorimetry with a machine-learni
 - **Computer Vision:** OpenCV, TorchVision, Pillow; image preprocessing, augmentation, transfer learning, CNN training
 - **Classical ML & Data:** scikit-learn, NumPy, Pandas, XGBoost, LightGBM, CatBoost
 - **Visualization & Analysis:** Matplotlib, Seaborn
-- **Experimentation & Interfaces:** Jupyter / JupyterLab, Google Colab, Gradio, Weights & Biases
+- **Experimentation & Interfaces:** Jupyter / JupyterLab, Google Colab, VSCode, Gradio, Weights & Biases
 - **Engineering & Quality:** Git, GitHub Actions, pytest, Ruff, uv
 
 ---
