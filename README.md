@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Alexandru 👋</h1>
 
+[![AI-Atlas](https://ai-atlas-dev.vercel.app/api/badge/pop123-ux)](https://ai-atlas-dev.vercel.app/u/pop123-ux)
+
 <p align="center">
   <b>17-year-old ICYS gold medalist building toward AI research.</b><br>
   Working across <b>machine learning</b>, <b>AI systems</b>, <b>computer vision</b>, <b>cybersecurity</b>, and <b>developer tooling</b>.
