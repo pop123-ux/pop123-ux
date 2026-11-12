@@ -51,9 +51,9 @@ A STEM research project combining gold-nanoparticle colorimetry with a machine-l
 - **Programming:** Python
 - **Deep Learning:** PyTorch
 - **LLMs & NLP:** Hugging Face Transformers, Datasets, Tokenizers, PEFT, TRL, Accelerate, Hugging Face Hub
-- **Computer Vision:** OpenCV, TorchVision, Pillow; image preprocessing, augmentation, transfer learning, CNN training
+- **Computer Vision:** OpenCV, Pillow; image preprocessing, augmentation, transfer learning, CNN training
 - **Classical ML & Data:** scikit-learn, NumPy, Pandas, XGBoost, LightGBM, CatBoost
-- **Visualization & Analysis:** Matplotlib, Seaborn
+- **Visualization & Analysis:** Matplotlib, Seaborn, Plotly
 - **Experimentation & Interfaces:** Jupyter / JupyterLab, Google Colab, VSCode, Gradio, Weights & Biases
 - **Engineering & Quality:** Git, GitHub Actions, pytest, Ruff, uv
 
