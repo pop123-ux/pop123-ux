@@ -10,6 +10,8 @@
   <a href="https://huggingface.co/pop123ux"><img src="https://img.shields.io/badge/Hugging%20Face-pop123ux-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
   <a href="https://medium.com/@Pop123"><img src="https://img.shields.io/badge/Medium-Pop123-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="https://profile.hackthebox.com/profile/019f3cd8-6dda-7323-a174-6b280926868c"><img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box"></a>
+  
+  [![AI-Atlas on DevHunt](https://devhunt.org/badge/aiatlas.svg)](https://devhunt.org/tool/aiatlas) with [AI-Atlas](https://getaiatlas.com/)
 </p>
 
 ---
